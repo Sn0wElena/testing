@@ -1,3 +1,3 @@
-let code = {
-  password: "ftyguijokpmazergthjk"
+let config = {
+  "password": "ftyguijokpmaJIHU890098765zergthjk"
 }
